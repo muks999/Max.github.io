@@ -1,0 +1,37 @@
+User-agent: Yandex
+Disallow: /wp-register.php
+Disallow: /wp-content/themes
+Disallow: /*?
+Disallow: /webstat/
+Disallow: */comments
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */feed
+Disallow: /*?*
+Disallow: /comments
+Disallow: /wp-content/plugins
+Disallow: /wp-admin/
+Disallow: /feed/
+Disallow: /wp-login.php
+Disallow: /wp-includes/
+Host: vachevskiy.ru
+
+User-agent: *
+Disallow: /wp-login.php
+Disallow: /webstat/
+Disallow: /feed/
+Disallow: */trackback
+Disallow: /wp-register.php
+Disallow: */feed
+Disallow: */comments
+Disallow: /*?*
+Disallow: /*?
+Disallow: /wp-content/plugins
+Disallow: /wp-content/themes
+Disallow: /wp-admin/
+Disallow: /trackback
+Disallow: /wp-includes/
+Disallow: /comments
+ 
+Sitemap: http://vachevskiy.ru/sitemap.xml
+Sitemap: http://vachevskiy.ru/sitemap.xml.gz
